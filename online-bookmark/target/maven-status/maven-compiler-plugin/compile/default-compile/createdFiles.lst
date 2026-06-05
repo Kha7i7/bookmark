@@ -1,0 +1,15 @@
+com\bookmark\mapper\BookmarkMapper.class
+com\bookmark\OnlineBookmarkApplication.class
+com\bookmark\mapper\UserMapper.class
+com\bookmark\service\impl\BookmarkServiceImpl.class
+com\bookmark\service\impl\UserServiceImpl.class
+com\bookmark\entity\Bookmark.class
+com\bookmark\service\IBookmarkService.class
+com\bookmark\config\WebConfig$LoginInterceptor.class
+com\bookmark\entity\User.class
+com\bookmark\config\WebConfig.class
+com\bookmark\controller\BookmarkController.class
+com\bookmark\config\MyBatisPlusConfig.class
+com\bookmark\config\WebConfig$1.class
+com\bookmark\controller\UserController.class
+com\bookmark\service\IUserService.class
